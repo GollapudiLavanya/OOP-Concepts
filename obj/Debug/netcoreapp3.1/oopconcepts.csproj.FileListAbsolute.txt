@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.AssemblyInfo.cs
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\bin\Debug\netcoreapp3.1\oopconcepts.exe
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\bin\Debug\netcoreapp3.1\oopconcepts.deps.json
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\bin\Debug\netcoreapp3.1\oopconcepts.runtimeconfig.json
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\bin\Debug\netcoreapp3.1\oopconcepts.runtimeconfig.dev.json
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\bin\Debug\netcoreapp3.1\oopconcepts.dll
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\bin\Debug\netcoreapp3.1\oopconcepts.pdb
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.dll
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.pdb
+C:\Users\dell\source\repos\oopconcepts\oopconcepts\obj\Debug\netcoreapp3.1\oopconcepts.genruntimeconfig.cache
