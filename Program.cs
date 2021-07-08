@@ -22,11 +22,12 @@ namespace oopsconcepts
             Console.WriteLine("Location: " + u.Location);
             Console.ReadLine();
 
-            Laptop l = new Laptop();
-            l.Brand = "HP";
-            l.Model = "HP-14S";
-            l.LaptopDetails();
-            Console.ReadLine();
+           Shape sh = new Square(4);
+          
+        // calling the method
+        double result = sh.area();
+          
+        Console.Write("{0}", result);
 
             Calculate c = new Calculate();
             c.AddNumbers(1, 2);
