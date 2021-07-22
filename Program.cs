@@ -34,11 +34,13 @@ namespace oopsconcepts
             c.AddNumbers(1, 2, 3);
             Console.ReadLine();
 
-            DClass d = new DClass();
-            d.GetInfo();
-            BClass b = new BClass();
-            b.GetInfo();
-            Console.ReadLine();
+             Shape s;  
+             s = new Shape();  
+             s.draw();  
+             s = new Rectangle();  
+             s.draw();  
+             s = new Circle();  
+             s.draw(); 
 
         }
 
