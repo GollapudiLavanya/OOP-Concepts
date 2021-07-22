@@ -22,12 +22,10 @@ namespace oopsconcepts
             Console.WriteLine("Location: " + u.Location);
             Console.ReadLine();
 
-           Shape sh = new Square(4);
-          
-        // calling the method
-        double result = sh.area();
-          
-        Console.Write("{0}", result);
+           dog mydog = new dog();  
+           animal thePet = mydog;  
+           thePet.eat();  
+           mydog.sound();
 
             Calculate c = new Calculate();
             c.AddNumbers(1, 2);
