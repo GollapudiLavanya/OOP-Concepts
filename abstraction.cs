@@ -1,6 +1,6 @@
 using System;
   
-namespace Demoabstraction
+namespace oopsconcepts
 {
    abstract class animal  
     {  
